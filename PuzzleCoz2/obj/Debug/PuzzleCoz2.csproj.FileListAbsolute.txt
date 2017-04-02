@@ -1,0 +1,8 @@
+C:\Users\adilx\Documents\Visual Studio 2015\Projects\PuzzleCoz2\PuzzleCoz2\bin\Debug\PuzzleCoz2.exe.config
+C:\Users\adilx\Documents\Visual Studio 2015\Projects\PuzzleCoz2\PuzzleCoz2\bin\Debug\PuzzleCoz2.exe
+C:\Users\adilx\Documents\Visual Studio 2015\Projects\PuzzleCoz2\PuzzleCoz2\bin\Debug\PuzzleCoz2.pdb
+C:\Users\adilx\Documents\Visual Studio 2015\Projects\PuzzleCoz2\PuzzleCoz2\obj\Debug\PuzzleCoz2.csprojResolveAssemblyReference.cache
+C:\Users\adilx\Documents\Visual Studio 2015\Projects\PuzzleCoz2\PuzzleCoz2\obj\Debug\PuzzleCoz2.Properties.Resources.resources
+C:\Users\adilx\Documents\Visual Studio 2015\Projects\PuzzleCoz2\PuzzleCoz2\obj\Debug\PuzzleCoz2.csproj.GenerateResource.Cache
+C:\Users\adilx\Documents\Visual Studio 2015\Projects\PuzzleCoz2\PuzzleCoz2\obj\Debug\PuzzleCoz2.exe
+C:\Users\adilx\Documents\Visual Studio 2015\Projects\PuzzleCoz2\PuzzleCoz2\obj\Debug\PuzzleCoz2.pdb
